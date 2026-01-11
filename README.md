@@ -26,10 +26,9 @@ Aspiring **Offensive Security Professional** with a deep interest in network exp
 ---
 
 ### 🏆 Certifications & Badges
-
 <p align="left">
   <a href="https://tryhackme.com/p/CyberDat">
-    <img src="https://tryhackme.com/badge/5731709" width="150" alt="TryHackMe Profile">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/CyberDat.png" width="150" alt="TryHackMe Profile">
   </a>
   <a href="https://www.credly.com/users/artem-chuntu/badges">
     <img src="https://images.credly.com/images/af893e28-28c6-4fc5-9bfe-99a997d31af5/image.png" width="120" alt="Cisco Badge">
@@ -51,8 +50,8 @@ Aspiring **Offensive Security Professional** with a deep interest in network exp
 
 ### 📊 GitHub Activity
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CyberDat&show_icons=true&theme=terminal&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberDat&layout=compact&theme=terminal&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CyberDat&show_icons=true&theme=terminal&hide_border=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberDat&layout=compact&theme=terminal&hide_border=true" />
 </p>
 
 ---
