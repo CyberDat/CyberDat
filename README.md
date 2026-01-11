@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**CyberDat/CyberDat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```md
+# 👋 Hi, I'm CyberDat
 
-Here are some ideas to get you started:
+🎯 Cybersecurity student focused on offensive security and penetration testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Areas of Interest
+- Network Enumeration
+- Insecure Protocols (Telnet, SMB, FTP)
+- Linux Privilege Escalation
+- Red Team fundamentals
+
+---
+
+## 🛠 Tools & Technologies
+- Nmap
+- Netcat
+- tcpdump
+- Metasploit
+- Linux
+- Bash
+
+---
+
+## 📘 Learning Platforms
+- TryHackMe
+- Cisco Academy
+- University Woolf (Cybersecurity)
+- Oxford University Saïd Business School
+
+---
+
+## 📂 Featured Repository
+🔐 **Offensive-Security-Journal**  
+Hands-on labs, write-ups, and notes documenting my journey in offensive security.
+
+---
+
+## ⚠️ Disclaimer
+All activities are performed in legal lab environments for educational purposes only.
