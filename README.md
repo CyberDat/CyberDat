@@ -30,11 +30,8 @@ Aspiring **Offensive Security Professional** with a deep interest in network exp
   <a href="https://tryhackme.com/p/CyberDat">
     <img src="https://tryhackme-badges.s3.amazonaws.com/CyberDat.png" width="150" alt="TryHackMe Profile">
   </a>
-  <a href="https://www.credly.com/users/artem-chuntu/badges">
-    <img src="https://images.credly.com/images/af893e28-28c6-4fc5-9bfe-99a997d31af5/image.png" width="120" alt="Cisco Badge">
-  </a>
-</p>
 
+* 🎓 **Credly** — [View My Verified Badges & Certifications](https://www.credly.com/users/artem-chuntu/badges)
 * 🏛️ **Oxford University Saïd Business School** — Cybersecurity Leadership
 * 🐺 **University Woolf** — Cybersecurity Academic Track
 * 🌐 **Cisco Networking Academy** — Network Security Fundamentals
